@@ -78,6 +78,7 @@ Trained and evaluated the following models:
 
 ## 📌 Example Output (Console)
 
+```text
 Random Forest Test Accuracy: 0.8750
 
 Classification Report:
