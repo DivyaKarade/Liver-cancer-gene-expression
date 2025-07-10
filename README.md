@@ -88,6 +88,8 @@ Classification Report:
 
 AUC-ROC Score for Random Forest: 0.93
 
+```text
+
 ## 📎 Notes
 
 - Set random seed for reproducibility.
