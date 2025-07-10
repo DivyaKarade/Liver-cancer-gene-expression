@@ -24,10 +24,9 @@ The dataset used in this project is assumed to be in CSV format and named `liver
 
 Install the following Python packages before running the script:
 
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
----
+
 
 ## 🧪 How to Run
 
@@ -35,7 +34,6 @@ Place your dataset file as `liver_cancer_expression_data.csv` in the project dir
 
 Run the script using:
 
-```bash
 python liver_cancer_classification.py
 
 ---
