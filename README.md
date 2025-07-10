@@ -80,10 +80,12 @@ Trained and evaluated the following models:
 
 Random Forest Test Accuracy: 0.8750
 
-Classification Report:
-              precision    recall  f1-score   support
-     Normal       0.89      0.86      0.87        14
-        HCC       0.86      0.89      0.88        14
+### 📊 Classification Report
+
+| Class  | Precision | Recall | F1-score | Support |
+|--------|-----------|--------|----------|---------|
+| Normal | 0.89      | 0.86   | 0.87     | 14      |
+| HCC    | 0.86      | 0.89   | 0.88     | 14      |
 
 AUC-ROC Score for Random Forest: 0.93
 
