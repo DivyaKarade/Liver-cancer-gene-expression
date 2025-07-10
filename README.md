@@ -78,7 +78,6 @@ Trained and evaluated the following models:
 
 ## 📌 Example Output (Console)
 
-```text
 Random Forest Test Accuracy: 0.8750
 
 Classification Report:
@@ -87,8 +86,6 @@ Classification Report:
         HCC       0.86      0.89      0.88        14
 
 AUC-ROC Score for Random Forest: 0.93
-
-```text
 
 ## 📎 Notes
 
