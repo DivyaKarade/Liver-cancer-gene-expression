@@ -85,7 +85,7 @@ Classification Report:
      Normal       0.89      0.86      0.87        14
         HCC       0.86      0.89      0.88        14
 
-AUC-ROC Score for Random Forest: 0.93 ```
+AUC-ROC Score for Random Forest: 0.93
 
 ## 📎 Notes
 
